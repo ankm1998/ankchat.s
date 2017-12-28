@@ -72,7 +72,7 @@ h2{
 }
 
 #chat-window{
-    height: 305px;
+    height: 100%;
     overflow: auto;
     overflow-x: hidden;
     display: flex;
